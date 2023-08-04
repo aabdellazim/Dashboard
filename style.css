@@ -186,6 +186,9 @@ td span {
         display: flex;
         flex-direction: column;
     }
+    .profile h2 {
+        margin-left: -10px;
+    }
     .img-box {
         margin-bottom: -20px;
     }
